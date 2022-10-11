@@ -32,12 +32,31 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o pl
 
 ![image](https://user-images.githubusercontent.com/34819624/194957037-edb5eee1-4ed7-48b5-a4e5-475d5e7b799a.png)
 
+
+
+
  Feito o passo a passo acima, a tela será atualizada e mostrará a informação do serviço (onde esta a seta vermelha indica os status do serviço), conforme tela abaixo:
  
  ![image](https://user-images.githubusercontent.com/34819624/194958723-7494572e-1f61-4913-90e4-8811a214e4e7.png)
 
 
+# Exemplos de mensagens por status
 
+ - invoiced | Sendo variavel {{1}} = data prevista para entrega e {{2}} para o url de tracking do pedido
+  
+ ![image](https://user-images.githubusercontent.com/34819624/195096355-b44da850-d071-494d-a468-fdd2591f1213.png)
+
+- ready-for-handling e handling | Sendo variavel {{1}} = Nome do cliente
+
+![image](https://user-images.githubusercontent.com/34819624/195097398-44a0fea3-9c0d-416f-9a41-62ae8a926ad8.png)
+
+- payment-approved | Sendo variavel {{1}} = Nome e {{2}} = data prevista para entrega
+
+![image](https://user-images.githubusercontent.com/34819624/195097774-9db773dd-09cb-4a00-b5a7-9146619da07e.png)
+
+- payment-pending | Sendo variavel {{1}} = Nome do cliente, {{2}} Código de barras e {{3}} link do boleto para pagamento
+
+![image](https://user-images.githubusercontent.com/34819624/195098138-ad234448-b264-4f0e-8c55-f0d961aa406e.png)
 
 
 
