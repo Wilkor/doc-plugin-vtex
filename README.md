@@ -16,7 +16,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o pl
  
   ![image](https://user-images.githubusercontent.com/34819624/194956475-cd954457-6f5f-40c8-8f0d-7df6ccc21574.png)
   
-   # Configuração BLiP?
+   # Configuração BLiP
   - Nesta tela, você irá informar algumas informações importantes para o funcionamento de seus disparos ativos;
   - Idioma: Adicionar o idioma do seu template;
   - Chabot: Adicionar o chatbot que você irá receber as notificações
