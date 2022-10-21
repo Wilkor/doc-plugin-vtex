@@ -3,11 +3,11 @@
 
 # Como utilizar a extensão VTEX!
 
-Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o plugin:
+Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua extensão:
 
  - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões;
  - Procure por **VTEX** e clique em ativar (Instalar em seu bot Router/Roteador);
- - Após instalado o plugin, siga os passos abaixo;
+ - Após instalado a extensão, siga os passos abaixo;
  
  # Configuração VTEX!
  
@@ -58,5 +58,7 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o pl
 
 ![image](https://user-images.githubusercontent.com/34819624/195098138-ad234448-b264-4f0e-8c55-f0d961aa406e.png)
 
-
+ Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
+ 
+ Email: contato@pontoparse.net
 
