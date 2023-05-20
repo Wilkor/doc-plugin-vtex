@@ -14,9 +14,9 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   - Na tela de configuração,  basta adicionar os headers X-VTEX-API-AppToken, X-VTEX-API-AppKey e URL(sua loja) que você consegue dentro da tela de ADM do seu E-commerce VTEX
   - Preencher conforme tela abaixo 
  
-  ![image](https://user-images.githubusercontent.com/34819624/194956475-cd954457-6f5f-40c8-8f0d-7df6ccc21574.png)
+![image](https://github.com/Wilkor/doc-plugin-vtex/assets/34819624/83eeeaad-8e51-4beb-b302-7444284e6bbc)
   
-   # Configuração BLiP
+   # Configuração BLiP + VTEX
   - Nesta tela, você irá informar algumas informações importantes para o funcionamento de seus disparos ativos;
   - Idioma: Adicionar o idioma do seu template;
   - Chabot: Adicionar o chatbot que você irá receber as notificações
@@ -37,8 +37,22 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
  Feito o passo a passo acima, a tela será atualizada e mostrará a informação do serviço (onde esta a seta vermelha indica os status do serviço), conforme tela abaixo:
  
- ![image](https://user-images.githubusercontent.com/34819624/194958723-7494572e-1f61-4913-90e4-8811a214e4e7.png)
+![image](https://github.com/Wilkor/doc-plugin-vtex/assets/34819624/a0559e0f-a458-4a55-9ea2-8e1381113c2c)
 
+ Além de você poder pausar o serviço e inicializar a qualquer momento.
+ 
+ 
+# Update de template BLIP  versus status VTEX
+ 
+ Depois que habilitado o serviço, você poderá efetuar a atualização de um template, conforme tela abaixo:
+ 
+ ![image](https://github.com/Wilkor/doc-plugin-vtex/assets/34819624/b553ad20-3f64-46c5-a611-323395dd67cd)
+ 
+  Na tela acima você tem a lista dos templates e status cadatrado com suas variaveis e na parte inferior da tela, você pode atualizar um status.
+  
+![image](https://github.com/Wilkor/doc-plugin-vtex/assets/34819624/f1b80b88-93ca-4c20-91d2-60f9bdb361c6)
+
+Clicando em salvar, você atualiza o status com o template desejado.
 
 # Exemplos de mensagens por status
 
