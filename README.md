@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-plugin-vtex/assets/34819624/70238f9f-7dd3-4639-8c0b-b2fcce923cbe)
 
 # Como utilizar a extensão VTEX!
 
